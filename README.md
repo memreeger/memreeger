@@ -69,10 +69,18 @@
   <hr />
 
   <h2>📫 Contact</h2>
-  <p>
-    <a href="https://github.com/memreeger"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/m-emre-eger"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </p>
+<p>
+  <a href="https://github.com/memreeger" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/m-emre-eger" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://emreeger.com.tr" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+</p>
+
 
   <p align="center">
     ⭐ Always learning and improving frontend & backend best practices.
