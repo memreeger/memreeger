@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hi, I'm Memre 👋</h1>
+  <h1>Hi, I'm Muhammed Emre Eğer 👋</h1>
   <p>
     Frontend Developer focused on building modern, maintainable, and user-friendly web applications.
     <br />
