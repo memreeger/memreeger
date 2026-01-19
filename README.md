@@ -2,7 +2,7 @@
   <h1>Hi, I'm Muhammed Emre Eğer 👋</h1>
   <p>
     Frontend Developer focused on building modern, maintainable, and user-friendly web applications.<br/>
-    Experienced in React ecosystem and modern frontend tools.
+    Experienced in React ecosystem and modern frontend tools, currently learning Node.js & Express.js for backend development.
   </p>
 
   <hr />
@@ -38,9 +38,17 @@
     <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logoColor=white" />
   </p>
 
-  <!-- Backend / Services -->
+  <!-- Backend -->
   <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  </p>
+
+  <!-- Currently Learning -->
+  <p>
+    <img src="https://img.shields.io/badge/Learning-Node.js-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Learning-Express.js-blue?style=for-the-badge" />
   </p>
 
   <!-- Tools -->
@@ -51,9 +59,14 @@
   <hr />
 
   <h2>📌 Selected Projects</h2>
-  <p>
-    React-based web apps, TypeScript projects, Firebase-integrated apps, and form handling/validation examples.
-  </p>
+  <p>Here are some of my highlighted projects:</p>
+  <ul>
+    <li><a href="https://github.com/memreeger/eCommercial">E-Commerce Web Site</a> – React, TypeScript, Tailwind CSS, Shadcn UI, Form Hook(zod), Context Api, Multi language(i18n), responsive design, API usage  & Firebase</li> 
+    <li><a href="https://github.com/memreeger/to-do-app">Todo App</a> – React & TypeScript & Firebase practice project</li> 
+    <li><a href="https://github.com/memreeger/food-explorer-app">Food Explorer App</a> – Modern UI/UX, API consumption and React integration</li>
+    <li><a href="https://github.com/memreeger/TicTacToeGame">Tic Tac Toe Game App</a> – Modern UI/UX, API, Tailwind CSS, responsive design </li> 
+    <li><a href="https://github.com/memreeger/rockPapperScisscors">Rock Papper Scisscors Game App</a> – Play against computer and PVP mode, Modern UI/UX, TypeScript, Tailwind CSS, responsive design </li>
+  </ul>
 
   <hr />
 
@@ -64,6 +77,6 @@
   </p>
 
   <p align="center">
-    ⭐ Always learning and improving frontend best practices.
+    ⭐ Always learning and improving frontend & backend best practices.
   </p>
 </div>
