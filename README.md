@@ -71,6 +71,8 @@
   <li>
     <b>GitHub:</b>
     <a href="https://github.com/memreeger">github.com/memreeger</a>
+  </li>
+  <li>
     <b>Linked In </b>
     <a href="https://linkedin.com/in/m-emre-eger">
   </li>
