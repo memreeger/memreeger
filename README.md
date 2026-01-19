@@ -74,7 +74,7 @@
   </li>
   <li>
     <b>Linked In </b>
-    <a href="https://linkedin.com/in/m-emre-eger">
+    <a href="https://linkedin.com/in/m-emre-eger"> linkedin.com/in/m-emre-eger</a>
   </li>
 </ul>
 
