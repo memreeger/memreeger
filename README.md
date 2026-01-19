@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Hi, I'm Muhammed Emre Eğer 👋</h1>
-  <p>Frontend Developer focused on building modern, maintainable, and user-friendly web applications.<br/>
-     Experienced in React ecosystem and modern frontend tools.
+  <p>
+    Frontend Developer focused on building modern, maintainable, and user-friendly web applications.<br/>
+    Experienced in React ecosystem and modern frontend tools.
   </p>
 
   <hr />
@@ -24,17 +25,34 @@
     <img src="https://img.shields.io/badge/i18n-FF6F61?style=for-the-badge&logo=internationalization&logoColor=white" />
   </p>
 
-  <!-- Styling & UI -->
+  <!-- UI & Styling -->
   <p>
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/ShadcnUI-000?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/ShadcnUI-000000?style=for-the-badge&logoColor=white" />
+  </p>
+
+  <!-- Forms & Validation -->
+  <p>
+    <img src="https://img.shields.io/badge/ReactHookForm-EC4C47?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logoColor=white" />
+  </p>
+
+  <!-- Backend / Services -->
+  <p>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   </p>
 
   <!-- Tools -->
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  </p>
+
+  <hr />
+
+  <h2>📌 Selected Projects</h2>
+  <p>
+    React-based web apps, TypeScript projects, Firebase-integrated apps, and form handling/validation examples.
   </p>
 
   <hr />
