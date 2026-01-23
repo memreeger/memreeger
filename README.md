@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/profile.jpg" width="140" style="border-radius:50%;" />
+  
 
   <h1>Emre Eğer</h1>
   <h3>Frontend Developer · React & TypeScript</h3>
