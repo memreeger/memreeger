@@ -40,8 +40,8 @@
 <ul>
   <li>
     <b>E-Commerce Web Application (NØRA)</b><br/>
-    React · TypeScript · Tailwind CSS · Firebase · i18n · REST APIs<br/>
-    Authentication, cart & favorites, multi-currency, responsive UI<br/>
+    React · TypeScript · Tailwind CSS · Firebase · i18n · REST APIs · React Hook Form · React Router Dom <br/>
+    Authentication, CRUD operations, cart & favorites, multi-currency, responsive UI, dark-light theme, shadcn UI <br/>
     🔗 <a href="https://github.com/memreeger/eCommercial" target="_blank" rel="noopener noreferrer" >Repository</a>
   </li>
   <br/>
@@ -53,8 +53,20 @@
   <br/>
   <li>
     <b>Todo App</b><br/>
-    CRUD Operations · TypeScript · Tailwind CSS<br/>
+    CRUD Operations · Firebase · Tailwind CSS<br/>
     🔗 <a href="https://github.com/memreeger/to-do-app" target="_blank" rel="noopener noreferrer">Repository</a>
+  </li>
+    <br/>
+  <li>
+    <b>Tic Tac Toe Game </b><br/>
+    CRUD Operations · Firebase · Tailwind CSS<br/>
+    🔗 <a href="https://github.com/memreeger/TicTacToeGame" target="_blank" rel="noopener noreferrer">Repository</a>
+  </li>
+    <br/>
+  <li>
+    <b>Rock Paper Scissors</b><br/>
+    CRUD Operations · Firebase · Tailwind CSS<br/>
+    🔗 <a href="https://github.com/memreeger/rockPapperScisscors" target="_blank" rel="noopener noreferrer">Repository</a>
   </li>
 </ul>
 
