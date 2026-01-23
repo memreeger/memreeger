@@ -28,7 +28,7 @@
   </p>
 
   <p>
-    <b>Currently learning:</b>Next.js · Node.js · Express.js
+    <b>Currently learning:</b> Next.js · Node.js · Express.js
   </p>
 
   <hr />
@@ -42,37 +42,19 @@
     <b>E-Commerce Web Application (NØRA)</b><br/>
     React · TypeScript · Tailwind CSS · Firebase · i18n · REST APIs<br/>
     Authentication, cart & favorites, multi-currency, responsive UI<br/>
-    🔗 <a 
-  href="https://github.com/memreeger/eCommercial"
-  target="_blank"
-  rel="noopener noreferrer"
->
-  Repository
-</a>
+    🔗 <a href="https://github.com/memreeger/eCommercial" target="_blank" rel="noopener noreferrer">Repository</a>
   </li>
   <br/>
   <li>
-    
     <b>Food Explorer App</b><br/>
-    Modern UI/UX · API Consumption · React Integration · REST APIs· Tailwind CSS<br/>
-    🔗 <a 
-  href="https://github.com/memreeger/food-explorer-app"
-  target="_blank"
-  rel="noopener noreferrer"
->
-  Repository
-</a>
+    Modern UI/UX · API Consumption · React Integration · REST APIs · Tailwind CSS<br/>
+    🔗 <a href="https://github.com/memreeger/food-explorer-app" target="_blank" rel="noopener noreferrer">Repository</a>
   </li>
   <br/>
   <li>
     <b>Todo App</b><br/>
     CRUD Operations · TypeScript · Tailwind CSS<br/>
-      🔗 <a
-          href="https://github.com/memreeger/to-do-app"
-          target="_blank"
-          rel="noopener noreferrer">
-  Repository
-</a>
+    🔗 <a href="https://github.com/memreeger/to-do-app" target="_blank" rel="noopener noreferrer">Repository</a>
   </li>
 </ul>
 
@@ -83,13 +65,13 @@
   <h2>📫 Let’s Connect</h2>
 
   <p>
-    <a href="https://github.com/memreeger" target="_blank">
+    <a href="https://github.com/memreeger" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/m-emre-eger" target="_blank">
+    <a href="https://linkedin.com/in/m-emre-eger" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://emreeger.com.tr" target="_blank">
+    <a href="https://emreeger.com.tr" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
     </a>
   </p>
