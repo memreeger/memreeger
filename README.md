@@ -42,19 +42,37 @@
     <b>E-Commerce Web Application (NØRA)</b><br/>
     React · TypeScript · Tailwind CSS · Firebase · i18n · REST APIs<br/>
     Authentication, cart & favorites, multi-currency, responsive UI<br/>
-    🔗 <a href="https://github.com/memreeger/eCommercial">Repository</a>
+    🔗 <a 
+  href="https://github.com/memreeger/eCommercial"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Repository
+</a>
   </li>
   <br/>
   <li>
+    
     <b>Food Explorer App</b><br/>
-    Modern UI/UX · API Consumption · React Integration<br/>
-    🔗 <a href="https://github.com/memreeger/food-explorer-app">Repository</a>
+    Modern UI/UX · API Consumption · React Integration · REST APIs· Tailwind CSS<br/>
+    🔗 <a 
+  href="https://github.com/memreeger/food-explorer-app"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Repository
+</a>
   </li>
   <br/>
   <li>
     <b>Todo App</b><br/>
-    Firebase Authentication · CRUD Operations · TypeScript<br/>
-    🔗 <a href="https://github.com/memreeger/to-do-app">Repository</a>
+    CRUD Operations · TypeScript · Tailwind CSS<br/>
+      🔗 <a
+          href="https://github.com/memreeger/to-do-app"
+          target="_blank"
+          rel="noopener noreferrer">
+  Repository
+</a>
   </li>
 </ul>
 
