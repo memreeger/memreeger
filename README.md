@@ -2,7 +2,7 @@
 
   
 
-  <h1>Emre Eğer</h1>
+  <h1>Muhammed Emre Eğer</h1>
   <h3>Frontend Developer · React & TypeScript</h3>
 
   <p>
