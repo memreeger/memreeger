@@ -52,23 +52,25 @@
   </li>
   <br/>
   <li>
-    <b>Todo App</b><br/>
-    CRUD Operations · Firebase · Tailwind CSS<br/>
-    🔗 <a href="https://github.com/memreeger/to-do-app" target="_blank" rel="noopener noreferrer">Repository</a>
-  </li>
-    <br/>
-  <li>
     <b>Tic Tac Toe Game </b><br/>
-    CRUD Operations · Firebase · Tailwind CSS<br/>
+    Typescript · Tailwind CSS<br/>
     🔗 <a href="https://github.com/memreeger/TicTacToeGame" target="_blank" rel="noopener noreferrer">Repository</a>
   </li>
     <br/>
   <li>
     <b>Rock Paper Scissors</b><br/>
-    CRUD Operations · Firebase · Tailwind CSS<br/>
+    Typescript · Tailwind CSS<br/>
     🔗 <a href="https://github.com/memreeger/rockPapperScisscors" target="_blank" rel="noopener noreferrer">Repository</a>
   </li>
+  <br/>
+  <li>
+    <b>Todo App</b><br/>
+    CRUD Operations · Firebase · Tailwind CSS<br/>
+    🔗 <a href="https://github.com/memreeger/to-do-app" target="_blank" rel="noopener noreferrer">Repository</a>
+  </li>
+  <br/>
 </ul>
+
 
 <hr />
 
