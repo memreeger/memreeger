@@ -42,7 +42,7 @@
     <b>E-Commerce Web Application (NØRA)</b><br/>
     React · TypeScript · Tailwind CSS · Firebase · i18n · REST APIs<br/>
     Authentication, cart & favorites, multi-currency, responsive UI<br/>
-    🔗 <a href="https://github.com/memreeger/eCommercial" target="_blank" rel="noopener noreferrer">Repository</a>
+    🔗 <a href="https://github.com/memreeger/eCommercial" target="_blank" rel="noopener noreferrer" >Repository</a>
   </li>
   <br/>
   <li>
