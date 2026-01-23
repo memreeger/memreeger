@@ -28,7 +28,7 @@
   </p>
 
   <p>
-    <b>Currently learning:</b> Node.js · Express.js
+    <b>Currently learning:</b>Next.js · Node.js · Express.js
   </p>
 
   <hr />
