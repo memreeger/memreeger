@@ -40,7 +40,7 @@
 <ul>
   <li>
     <b>E-Commerce Web Application (NØRA)</b><br/>
-    React · TypeScript · Tailwind CSS · Firebase · i18n · REST APIs · React Hook Form · React Router Dom <br/>
+    React · TypeScript · Tailwind CSS · Context Api · Firebase · i18n · REST APIs · React Hook Form · React Router Dom <br/>
     Authentication, CRUD operations, cart & favorites, multi-currency, responsive UI, dark-light theme, shadcn UI <br/>
     🔗 <a href="https://github.com/memreeger/eCommercial" target="_blank" rel="noopener noreferrer" >Repository</a>
   </li>
