@@ -99,6 +99,14 @@
 
 <hr />
 
+<h2>🌐 Live Portfolio</h2>
+<p>
+  You can view all my projects live on my personal website:<br/>
+  🔗 <a href="https://emreeger.com.tr" target="_blank" rel="noopener noreferrer">emreeger.com.tr</a>
+</p>
+
+<hr />
+
 <div align="center">
 
   <h2>📫 Let’s Connect</h2>
