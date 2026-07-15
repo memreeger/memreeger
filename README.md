@@ -96,7 +96,7 @@ A full-stack platform for securely managing supplements, medicines, vitamins and
 - Validation, global exception handling and i18n
 - Soft deletion and user-owned data protection
 
-🔗 [View Repository](SUPPLOG_REPOSITORY_URL)
+🔗 [View Repository](https://github.com/memreeger/supplog)
 
 ---
 
@@ -112,7 +112,7 @@ A stateful four-round card game with user registration, authentication, difficul
 - Persistent decks, hands, rounds and scores using JDBC prepared statements
 - Support for resuming interrupted games
 
-🔗 [View Repository](ARCANE_GAME_REPOSITORY_URL)
+🔗 [View Repository]([ARCANE_GAME_REPOSITORY_URL](https://github.com/memreeger/arcane-card-game-java))
 
 ---
 
