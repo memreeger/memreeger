@@ -13,7 +13,7 @@ My Stack
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate,maven,git,react,ts,tailwind,firebase&perline=10" alt="Tech Stack" />
 
 
-Backend: Java 17 · Spring Boot · Spring MVC · Spring Security · JWT · Spring Data JPA · Hibernate · REST APIs
+Backend: Java 21 · Spring Boot · Spring MVC · Spring Security · JWT · Spring Data JPA · Hibernate · REST APIs
 
 Database: PostgreSQL · SQL · JDBC · Flyway · Relational Data Modelling
 
